@@ -39,6 +39,7 @@ const App = () => {
         <p>Il va falloir modifier le code pour faire un vrai Blindtest !</p>
       </div>
       <div className="App-buttons">
+        <p> Les boutons seront là ! </p>
       </div>
     </div>
   );
